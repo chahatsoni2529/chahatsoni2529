@@ -1,12 +1,11 @@
+
 # 👋 Welcome to My GitHub Profile
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Chahat%20Soni&fontSize=45&fontColor=ffffff&color=8A2BE2"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&text=Chahat%20Soni&fontSize=50&fontColor=ffffff&animation=fadeIn&color=gradient"/>
 
-### 💜 Python • Data Analytics • APIs • AI Learner
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=BB6BD9&center=true&width=800&lines=Hi,+I'm+Chahat+Soni+👋;B.Tech+CSE+Student;Aspiring+Data+Analyst;Building+Python+Projects;Learning+AI+%7C+Machine+Learning"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=Hi,+I'm+Chahat+Soni+👋;B.Tech+Computer+Science+Student;Python+Developer;Aspiring+Data+Analyst;Learning+AI+%7C+Machine+Learning;Building+Projects+Every+Day+🚀"/>
 
 <img src="https://komarev.com/ghpvc/?username=chahatsoni2529&style=for-the-badge&color=blueviolet"/>
 
@@ -14,27 +13,38 @@
 
 ---
 
-# 🌸 About Me
+## 🌸 About Me
 
-- 🎓 B.Tech Computer Science Engineering Student
-- 🐍 Learning Python, SQL, Pandas, NumPy & Data Visualization
-- 📊 Interested in Data Analytics & Exploratory Data Analysis
-- 🌦 Building API Projects (Weather API, MealDB API)
-- 🌐 Frontend: HTML, CSS, JavaScript
+<img align="right" width="320" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
+
+- 🎓 B.Tech CSE Student
+- 🐍 Python • C • C++
+- 📊 Data Analytics with Pandas, NumPy, Matplotlib
+- 🌦 Building Weather API & MealDB API projects
+- 🌐 HTML, CSS & JavaScript
+- 🤖 Learning AI & Machine Learning
 - 🚀 Looking for Internship Opportunities
 
-<img align="right" width="330" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
+---
 
-## 🛠 Tech Stack
+# 🛠 Tech Stack
 
 ### Languages
+
 <p>
-<img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,javascript,mysql,git,github,vscode"/>
+<img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,javascript,mysql"/>
 </p>
 
 ### Libraries
+
 <p>
 <img src="https://go-skill-icons.vercel.app/api/icons?i=pandas,numpy,matplotlib"/>
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
 </p>
 
 ---
@@ -51,18 +61,12 @@
 </p>
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=chahatsoni2529&theme=tokyonight&no-frame=true&row=2&column=4"/>
+<img src="https://github-profile-trophy.vercel.app/?username=chahatsoni2529&theme=tokyonight&no-frame=true&column=4&row=2"/>
 </p>
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=chahatsoni2529&theme=tokyo-night&hide_border=true"/>
 </p>
-
-> 🐍 Snake animation (enable via GitHub Action)
-
-```md
-![Snake animation](https://github.com/chahatsoni2529/chahatsoni2529/blob/output/github-contribution-grid-snake.svg)
-```
 
 ---
 
@@ -70,35 +74,23 @@
 
 | Project | Description | Tech |
 |---|---|---|
-| 🌦 Weather Dashboard | Live weather analysis | Python |
-| 🍽 MealDB API | API data extraction | Python |
-| 📊 EDA Projects | Pandas, NumPy, Matplotlib | Python |
-| 🌐 Event Management Website | College web project | HTML/CSS |
+| 🌦 Weather Dashboard | API based weather analysis | Python |
+| 🍽 MealDB API | Meal API analysis | Python |
+| 📊 Data Analytics | EDA & Visualizations | Pandas |
+| 🌐 Event Management Website | Responsive website | HTML/CSS |
 | 🐍 Python Practice | Core Python | Python |
-| ⚡ C++ Programs | OOP & STL | C++ |
+| ⚡ C++ Practice | OOP & STL | C++ |
 
 ---
 
-# 🎯 2026 Goals
+# 🎯 Goals
 
-- Build 50+ projects
-- Master Python & SQL
+- Build real-world Python projects
+- Become a Data Analyst
 - Learn Machine Learning
+- Strengthen DSA
 - Build Portfolio Website
-- Improve DSA
 - Contribute to Open Source
-
----
-
-# 📚 Learning
-
-🟪🟪🟪🟪🟪🟪🟪⬜⬜ Python
-
-🟪🟪🟪🟪🟪🟪⬜⬜⬜ SQL
-
-🟪🟪🟪🟪🟪⬜⬜⬜⬜ JavaScript
-
-🟪🟪🟪🟪⬜⬜⬜⬜⬜ Machine Learning
 
 ---
 
@@ -114,8 +106,8 @@
 
 <div align="center">
 
-> **"Success is built one commit at a time."**
+> **Code • Learn • Build • Repeat 🚀**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=140&color=8A2BE2"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=150&color=gradient"/>
 
 </div>
