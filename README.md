@@ -7,7 +7,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=Hi,+I'm+Chahat+Soni+👋;B.Tech+Computer+Science+Student;Python+Developer;Aspiring+Data+Analyst;Learning+AI+%7C+Machine+Learning;Building+Projects+Every+Day+🚀"/>
 
-<img align="right" width="320" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif"/>
+<img src="https://komarev.com/ghpvc/?username=chahatsoni2529&style=for-the-badge&color=blueviolet"/>
 
 </div>
 
