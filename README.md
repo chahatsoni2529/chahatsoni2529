@@ -15,7 +15,7 @@
 
 ## 🌸 About Me
 
-<img align="right" width="320" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
+<img align="right" width="320" src="assets/coding.gif"/>
 
 - 🎓 B.Tech CSE Student
 - 🐍 Python • C • C++
