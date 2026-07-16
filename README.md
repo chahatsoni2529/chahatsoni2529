@@ -15,8 +15,6 @@
 
 ## 🌸 About Me
 
-<img align="right" width="320" src="assets/coding.gif"/>
-
 - 🎓 B.Tech CSE Student
 - 🐍 Python • C • C++
 - 📊 Data Analytics with Pandas, NumPy, Matplotlib
